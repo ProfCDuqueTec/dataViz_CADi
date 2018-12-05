@@ -3,7 +3,7 @@
 This repository contains the materials for the "Data Visualization" three days intensive [CADi](http://sitios.itesm.mx/va/capacitacion/1_2.html) (["Cursos de Actualización en las Disciplinas"](http://sitios.itesm.mx/va/capacitacion/1_2.html)) course taught at ["Tecnológico de Monterrey"](https://tec.mx/es) Institute. It hosts a compendium of materials and activities designed to develop and improve skills to make charts and plots more interactive/appealing, and to show some of the tools we can use to achieve better exposure of our work in scientific, and engineering applications.
 
 <br><iframe width="560" height="315" src="https://www.youtube.com/embed/vc1bq0qIKoA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><img src="./docs/media/images/headerImage.jpg"  width="100%"><br>
-
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/u6WNbsR5worSzC" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/EdurekaIN/what-is-artificial-intelligence-artificial-intelligence-tutorial-for-beginners-edureka" title="What is Artificial Intelligence | Artificial Intelligence Tutorial For Beginners | Edureka" target="_blank">What is Artificial Intelligence | Artificial Intelligence Tutorial For Beginners | Edureka</a> </strong> from <strong><a href="https://www.slideshare.net/EdurekaIN" target="_blank">Edureka!</a></strong> </div>
 
 
 <hr>
