@@ -1,4 +1,4 @@
-# dataViz CADi
+# dataViz CADi: Original de Héctor M. Sanchez C. Modificado por Camilo R. Duque B.
 
 This repository contains the materials for the "Data Visualization" three days intensive [CADi](http://sitios.itesm.mx/va/capacitacion/1_2.html) (["Cursos de Actualización en las Disciplinas"](http://sitios.itesm.mx/va/capacitacion/1_2.html)) course taught at ["Tecnológico de Monterrey"](https://tec.mx/es) Institute. It hosts a compendium of materials and activities designed to develop and improve skills to make charts and plots more interactive/appealing, and to show some of the tools we can use to achieve better exposure of our work in scientific, and engineering applications.
 
